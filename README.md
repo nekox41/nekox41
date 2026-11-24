@@ -1,6 +1,6 @@
 # Hi, I'm aa ♡
 
-<img align="right" src="assets/aa.png" width="365" alt="aa — pink-haired catgirl illustration" />
+<img align="right" src="aa.png" width="365" alt="aa — pink-haired catgirl illustration" />
 
 *Always curious, always learning.*
 
